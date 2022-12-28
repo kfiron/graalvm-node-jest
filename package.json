@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kfiron/graalvm-node-jest/issues"
   },
-  "homepage": "https://github.com/kfiron/graalvm-node-jest#readme"
+  "homepage": "https://github.com/kfiron/graalvm-node-jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
 }

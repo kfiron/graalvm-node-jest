@@ -1,0 +1,19 @@
+{
+  "name": "graalvm-node-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kfiron/graalvm-node-jest.git"
+  },
+  "author": "Kfir Bloch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kfiron/graalvm-node-jest/issues"
+  },
+  "homepage": "https://github.com/kfiron/graalvm-node-jest#readme"
+}
